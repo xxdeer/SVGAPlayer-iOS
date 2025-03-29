@@ -1,0 +1,30 @@
+Target dependency graph (14 targets)
+Target 'SVGAPlayer' in project 'SVGAPlayer'
+➜ Implicit dependency on target 'Pods-SVGAPlayer' in project 'Pods' via file 'libPods-SVGAPlayer.a' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Protobuf' in project 'Pods' via options '-lProtobuf' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SSZipArchive' in project 'Pods' via options '-lSSZipArchive' in build setting 'OTHER_LDFLAGS'
+Target 'SVGAPlayer' in project 'SVGAPlayer'
+➜ Implicit dependency on target 'Pods-SVGAPlayer' in project 'Pods' via file 'libPods-SVGAPlayer.a' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Protobuf' in project 'Pods' via options '-lProtobuf' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SSZipArchive' in project 'Pods' via options '-lSSZipArchive' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-SVGAPlayer' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'SSZipArchive' in project 'Pods'
+Target 'SSZipArchive' in project 'Pods' (no dependencies)
+Target 'Pods-SVGAPlayer' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'SSZipArchive' in project 'Pods'
+Target 'SSZipArchive' in project 'Pods' (no dependencies)
+Target 'Pods-SVGAPlayer' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'SSZipArchive' in project 'Pods'
+Target 'SSZipArchive' in project 'Pods' (no dependencies)
+Target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf-Protobuf_Privacy' in project 'Pods'
+Target 'Protobuf-Protobuf_Privacy' in project 'Pods' (no dependencies)
+Target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf-Protobuf_Privacy' in project 'Pods'
+Target 'Protobuf-Protobuf_Privacy' in project 'Pods' (no dependencies)
+Target 'Protobuf' in project 'Pods'
+➜ Explicit dependency on target 'Protobuf-Protobuf_Privacy' in project 'Pods'
+Target 'Protobuf-Protobuf_Privacy' in project 'Pods' (no dependencies)

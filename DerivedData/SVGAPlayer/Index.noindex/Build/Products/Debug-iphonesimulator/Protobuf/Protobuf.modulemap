@@ -1,0 +1,12 @@
+module Protobuf {
+  umbrella header "Protobuf-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module Protobuf.Swift {
+  header "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Products/Debug-iphonesimulator/Protobuf/Swift Compatibility Header/Protobuf-Swift.h"
+  requires objc
+}

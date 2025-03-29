@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Protobuf.build/Objects-normal/arm64/Protobuf-master.d",
+    "diagnostics" : "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Protobuf.build/Objects-normal/arm64/Protobuf-master.dia",
+    "emit-module-dependencies" : "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Protobuf.build/Objects-normal/arm64/Protobuf-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Protobuf.build/Objects-normal/arm64/Protobuf-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rexrex/SVGAPlayer-iOS/DerivedData/SVGAPlayer/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Protobuf.build/Objects-normal/arm64/Protobuf-master.swiftdeps"
+  },
+  "/Users/rexrex/SVGAPlayer-iOS/Pods/Protobuf/objectivec/GPBUnknownField+Additions.swift" : {
+
+  },
+  "/Users/rexrex/SVGAPlayer-iOS/Pods/Protobuf/objectivec/GPBUnknownFields+Additions.swift" : {
+
+  }
+}

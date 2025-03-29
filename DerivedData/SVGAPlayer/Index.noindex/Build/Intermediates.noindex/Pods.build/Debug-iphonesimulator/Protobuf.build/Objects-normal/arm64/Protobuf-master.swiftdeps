@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "46e922c4523e30935e8a1063cb0b0be27bf05f0d35fa9a2d6820a90c1f2af300"
+build_start_time: [1743217656, 882957000]
+build_end_time: [1743217656, 910349000]
+inputs:
+  "/Users/rexrex/SVGAPlayer-iOS/Pods/Protobuf/objectivec/GPBUnknownField+Additions.swift": !dirty [1743217640, 618023391]
+  "/Users/rexrex/SVGAPlayer-iOS/Pods/Protobuf/objectivec/GPBUnknownFields+Additions.swift": !dirty [1743217640, 622146792]
